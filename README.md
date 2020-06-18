@@ -1,4 +1,4 @@
-Can be seen at "quizapp.kashifhussain.net"
+Can be seen at "http://quizapp.kashifhussain.net"
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
